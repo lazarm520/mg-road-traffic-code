@@ -96,6 +96,99 @@
               "Ny toerana fiampitan’ny mpandeha an-tongotra" : "Natokana ho an’ny mpandeha an-tongotra miampita (miloko fotsy) : Tsy azo atao ny mijanona na miantsona eo amboniny, Tsy azo atao ny misongona eo amboniny, Rehefa misy fitohanana dia avela malalaka izy.",
               "Juggle-barré" : "Tsipika miendrika nifi-tsofa natokana hijanonan’ny fiara fitateran’olona, tsy azo hijanonana sy hiantsonana ho an’ny fiara hafa, Azo atao ny mandehanana na mandalo eo amboniny."
             }
+          },
+          "Fijanonana sy fiantsoana" : {
+            "utilities" : {
+              "0" : "Amin’ny ilany misy ny takelaby no tsy azo ijanonana.",
+              "1" : "Tsy azo atao ny mijanona eny ambony « trottoir » fa mijanona eo ambony arabe.",
+              "2" : "Azo atao ny mijanona amin’ny ilany tsy misy fandrarana raha tsy manelingelina.",
+              "3" : "8m – 10m alohan’ny takelaby no mahazo mijanona.",
+              "4" : "Tsy azo atao ny fiantsonana sy fijanonana rehefa manelingelina na mety ampidi-doza."
+            },
+            "roles": {
+                "Stantionnement en ligne na Créneau " : "Milahatra mahitsy na manao « Créneau ».",
+                "Stationnement en batailles" : "Marche AR no hiditra ao.",
+                "Stationnement en épi" : "Ny lohan’ny fiara no miditra voalohay"
+            },
+            "karazany": {
+              "Mijanona (Arrêt)" : "Midika fa tsy mihetsika mandritra ny fotoana fohy ny fiara, tsy mihotra ny 2mn ary tsy mamono motera. Tokony tsy hiala lavitra ny mpamily mba anakisaka ny fiara aingana raha ilaina.",
+              "Miantsona (Stationnement)" : "Tsy mietsika tanteraka ny fiara. Maharitra ny fiantsonana ary maty ny motera. Afaka mandao ny fiara ny mpamily.",
+              "Fanamarihana" : {
+                "Mampidy doza": {
+                  "0" : "Eny amin’ny takelaby mandrara",
+                  "1" : "Manakaiky sapanan-dalana",
+                  "2" : "Manakaiky violahana",
+                  "3" : "Mankaiky lalamby",
+                  "4" : "Eny amin’ny toerana maizimaizina",
+                  "5" : "Rehefa misy takelaby manabara loza"
+                },
+                "Manelingelina" : {
+                  "0" : "Ambony « trottoir »",
+                  "1" : "Eny amin’ny toerana voatokana(bus, taxi…)",
+                  "2" : "Rehefa misy tsipika mitohy",
+                  "3" : "Ambony toerana voatokana hiampitana",
+                  "4" : "Alohan’ny trottoir miloko",
+                  "5" : "Eny amin’ny lalana voatokana ho any bisikileta",
+                  "6" : "Akaiky takelaby",
+                  "7" : "Ambony tetezana sy anaty tonelina",
+                  "8" : "Alohan’ny vavahady samihafa",
+                  "9" : "Manakaiky fanaripako",
+                  "10" : "Manakaiky loarano famonoana afo",
+                  "11" : "Afovoan-dalana"
+                }
+              },
+              "Raha hijanona amin’ny « sens unique »" : {
+                  "0" : "Jerena raha misy fandrarana",
+                  "1" : "Jerena raha misy takelaby « stationner ici »",
+                  "2" : "Mandefa jiro famatarana miankavia.",
+                  "3" : "Mijery « retroviseur » sao efa misy misongona.",
+                  "4" : "Mijanona amin’ny ilany ankavia mba anamorana ny fandehanana amin’ny ankavanana.",
+                  "5" : "Avy any amin’ny « trottoir » no esorina ny mpandeha."
+              },
+              "Ny fomba fisongonana (Dépassement)" : {
+                  "0" : "Avy any amin’nyankavia no misongona.",
+                  "1" : "Jerena sao misy fandrarana",
+                  "2" : "Atao azo antoka fa manana hery hisongonana ny fiara",
+                  "3" : "Jerena amin’ny « retroviseur » sao efa misy misongona",
+                  "4" : "Jerena sao misy fiara mifanena",
+                  "5" : "Jerena raha misy hitoerana ao alohan’ilay fiara avy nosongonana",
+                  "6" : "Mandefa jiro famantarana",
+                  "7" : "Mampilaza amin’ny anjomara na jiro «code - phare» amin’ny alina",
+                  "8" : "Mampidina vitesy raha ilaina",
+                  "9" : "Manitsaka mafy ny « accelerateur » dia manatotosa ny fisongonana",
+                  "10" : "Mamela elanelana 50 cm",
+                  "11" : "Tsy tonga dia manery avy hatrany ny sisiny havana fa atao izay ahitana ny sarin’ny fiara nosongonana ao anaty « rétroviseur » anatiny.",
+                  "12" : "Rehefa hita ao ny sariny vao : mandefa jiro famantarana miankavanana",
+                  "13" : "Manery tsikelikely ny sisiny havanana",
+                  "14" : "Vonoina ny jiro famantarana",
+                  "15" : "Tohizana ny dia"
+              },
+              "Rehefa songonana" : {
+                  "0" : "Manery tsara ny sisiny havanana",
+                  "1" : "Tsy manova ny hafainganampandeha",
+                  "2" : "Rehefa amin’ny alina dia manova « code » raha vao mandefa « phare » ilay misongona ."
+              },
+              "Rahoviana no tsy mahazo misongona ?" : {
+                  "0" : "Rehefa mahita takelaby mandrara ny fisongonana",
+                  "1" : "Rehefa misy tsipika mitohy",
+                  "2" : "Avy any amin’ny an-kavanana",
+                  "3" : "Eny amin’ny lalamby tsy misy mpiambina",
+                  "4" : "Rehefa ratsy ny fahitana (avy orana, zavona,…)",
+                  "5" : "Eny amin’ny sapanan-dalana ka tokony andefitra",
+                  "6" : "Rehefa eo amin’ny toerana fahatelo",
+                  "7" : "Rehefa songonana",
+                  "8" : "Rehefa misy mifanena",
+                  "9" : "Eny amin’ny takelaby milaza toerana mampidy doza"
+              },
+              "Ny litera A.O.D" : {
+                  "def" : "Soratra entin’ny fiara vaventy ao ahoriana.",
+                  "type" : {
+                    "A" : "fifandraisana amin’ny alalan’ny feo",
+                    "O" : "fifandraisana amin’ny alalan’ny jiro",
+                    "D" : "mambara « DANGER » entin’ny fiara lehibe mahatratra 2,5m ny sakany."
+                }
+              }
+            }
           }
         }
       }
